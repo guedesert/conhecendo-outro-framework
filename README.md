@@ -34,7 +34,7 @@ Durante o projeto foram desenvolvidos 03 procedimentos descritos abaixo:
     <th>Descrição</th>
   </tr>
   <tr>
-    <td>1º procedimento</td>
+    <td>Projeto Angular para o Catálogo de Livros</td>
     <td>
       <ul>
         <li>Configure um projeto Angular usando Angular CLI.</li>
@@ -49,7 +49,7 @@ Durante o projeto foram desenvolvidos 03 procedimentos descritos abaixo:
     </td>
   </tr>
   <tr>
-    <td>2º procedimento</td>
+    <td>Página de Cadastro e Sistema de Navegação</td>
     <td>
       <ul>
         <li>Configure o FormsModule no AppModule.</li>
